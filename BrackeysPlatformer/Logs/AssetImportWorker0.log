@@ -1,0 +1,155 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.4f1 (becced5a802b) revision 12504301'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1379; Version 1909; 64bit' Language: 'en' Physical Memory: 16311 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/matth/Documents/GitHub/BrackeysJam-2021/BrackeysPlatformer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56479
+Successfully changed project path to: C:/Users/matth/Documents/GitHub/BrackeysJam-2021/BrackeysPlatformer
+C:/Users/matth/Documents/GitHub/BrackeysJam-2021/BrackeysPlatformer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/matth/Documents/GitHub/BrackeysJam-2021/BrackeysPlatformer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001482 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2238.
+Total: 1.921000 ms (FindLiveObjects: 0.289200 ms CreateObjectMapping: 0.059600 ms MarkObjects: 1.453900 ms  DeleteObjects: 0.116900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Folder
+  artifactKey: Guid(3028c13713cb6de4c88d85d753e4ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(3028c13713cb6de4c88d85d753e4ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1302d94e5f49875a136685f3871a40') in 0.007768 seconds
+  Import took 0.010716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.001655 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(3028c13713cb6de4c88d85d753e4ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(3028c13713cb6de4c88d85d753e4ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aae6e253c02d67e843a66b80ce91344') in 0.005655 seconds
+  Import took 0.014752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.610802 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc3feb264a98656617d3c2cb59c8f16') in 0.005798 seconds
+  Import took 0.014861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.370556 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(8c3cb0732c8f6e14da847e4cc5d5c32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(8c3cb0732c8f6e14da847e4cc5d5c32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebfe123227ea9c4d37731440086d1406') in 0.005388 seconds
+  Import took 0.007829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.532535 seconds.
+  path: Assets/Tilemaps
+  artifactKey: Guid(b6daad5b8af730a42a07014ac86c1aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps using Guid(b6daad5b8af730a42a07014ac86c1aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f422455d5143815e98c85a5b0fc93e6b') in 0.005779 seconds
+  Import took 0.008578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.697075 seconds.
+  path: Assets/Sprites/cultistMemberPurple.png
+  artifactKey: Guid(3d6989d89e8cd90469fa918bb97bf72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/cultistMemberPurple.png using Guid(3d6989d89e8cd90469fa918bb97bf72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ff2528ecb197ea32efaa7e19681de3') in 0.105072 seconds
+  Import took 0.108042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.394592 seconds.
+  path: Assets/Sprites/metroidvania_tiles.png
+  artifactKey: Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/metroidvania_tiles.png using Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5268748d28e149f0f90b0581f0f59b') in 0.015738 seconds
+  Import took 0.018369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Sprites/metroidvania_tiles.png
+  artifactKey: Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/metroidvania_tiles.png using Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5268748d28e149f0f90b0581f0f59b') in 0.010893 seconds
+  Import took 0.013330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.659062 seconds.
+  path: Assets/Sprites/metroidvania_tiles.png
+  artifactKey: Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/metroidvania_tiles.png using Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f298ca50ba2067654d8778439608be') in 0.008840 seconds
+  Import took 0.011658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002596 seconds.
+  path: Assets/Sprites/metroidvania_tiles.png
+  artifactKey: Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/metroidvania_tiles.png using Guid(90fde837ba5e64e4b83d266a6d1e60d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f298ca50ba2067654d8778439608be') in 0.005145 seconds
+  Import took 0.007403 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
